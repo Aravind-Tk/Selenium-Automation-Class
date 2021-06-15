@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 
 public class SmallcaseAssign {
 
-	String driverPath = "C:\\Users\\batma\\\\Documents\\\\learning\\\\automation\\\\edgedriver\\\\msedgedriver.exe";
+	String driverPath = "C:\\Users\\msedgedriver.exe";
 	WebDriver driver;
 	FlipkartSearch search;
 	FlipkartItem items;
